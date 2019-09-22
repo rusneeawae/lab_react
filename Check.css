@@ -1,0 +1,15 @@
+.area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(97, 179, 111);
+}
+.text{
+    text-align: center;
+}
+.area2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(167, 62, 76);
+}
